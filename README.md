@@ -1,8 +1,9 @@
 ### About Me
 - A full stack engineer!💻
 - Hardworking and highly proficient man with 7+ years of experience! ⚡🔥
-- Just became a dad!💖
-- Now open to work full time! 👋
+- Just became a dad!💖🥰
+- Now open to work full time! 👋👨
+- Loyal soccer fan of Red Devis! ⚽🏆
 
 ### Skills and Technologies
 
