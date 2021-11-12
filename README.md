@@ -1,11 +1,11 @@
-### About Me
+## About Me
 - A Full stack JS Developer!💻
 - Hardworking and highly proficient man with 7+ years of experience! ⚡🔥
 - Just became a dad!💖👨
 - Now open to work full time remotely! 👋🏠
 - Loyal soccer fan! ⚽🏆
 
-### Skills and Technologies
+## Major Tech Stack
 
 <img src="https://raw.githubusercontent.com/edwardcdev/edwardcdev/main/logos/react.svg" height="auto" width="40"> &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/edwardcdev/edwardcdev/main/logos/vue.png" height="auto" width="40">&nbsp;&nbsp;&nbsp;
